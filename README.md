@@ -21,8 +21,8 @@ A user-friendly web application for searching and filtering doctors, specialists
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/doctor-appointment-search.git
-   cd doctor-appointment-search
+   git clone https://github.com/yourusername/Bajaj-Finserv-Qualifying-Project
+   cd bajaj_finserv_qualifier_task
    ```
 
 2. Install dependencies:
